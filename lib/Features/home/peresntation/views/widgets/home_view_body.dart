@@ -1,7 +1,7 @@
-import 'package:bookapp/Features/home/peresntation/views/widgets/best_seller_list_view.dart';
-import 'package:bookapp/Features/home/peresntation/views/widgets/custom_app_bar.dart';
-import 'package:bookapp/Features/home/peresntation/views/widgets/featured_books_list_view.dart';
-import 'package:bookapp/core/utils/styles.dart';
+import 'package:bookappp/Features/home/peresntation/views/widgets/best_seller_list_view.dart';
+import 'package:bookappp/Features/home/peresntation/views/widgets/custom_app_bar.dart';
+import 'package:bookappp/Features/home/peresntation/views/widgets/featured_books_list_view.dart';
+import 'package:bookappp/core/utils/styles.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';

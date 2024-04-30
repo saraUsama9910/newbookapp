@@ -1,4 +1,4 @@
-import 'package:bookapp/Features/home/peresntation/views/widgets/custom_list_view_item.dart';
+import 'package:bookappp/Features/home/peresntation/views/widgets/custom_list_view_item.dart';
 import 'package:flutter/material.dart';
 
 class SimilarBooksListView extends StatelessWidget {

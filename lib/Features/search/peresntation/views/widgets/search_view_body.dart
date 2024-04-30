@@ -1,6 +1,6 @@
-import 'package:bookapp/Features/home/peresntation/views/widgets/best_seller_list_view_item.dart';
-import 'package:bookapp/Features/search/peresntation/views/widgets/custom_search_text_field.dart';
-import 'package:bookapp/core/utils/styles.dart';
+import 'package:bookappp/Features/home/peresntation/views/widgets/best_seller_list_view_item.dart';
+import 'package:bookappp/Features/search/peresntation/views/widgets/custom_search_text_field.dart';
+import 'package:bookappp/core/utils/styles.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

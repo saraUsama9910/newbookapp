@@ -1,10 +1,10 @@
-import 'package:bookapp/Features/home/data/repos/home_repo_impl.dart';
-import 'package:bookapp/Features/home/peresntation/manager/featured_books_cubit/featured_books_cubit.dart';
-import 'package:bookapp/Features/home/peresntation/manager/newest_books_cubit/newest_books_cubit.dart';
-import 'package:bookapp/Features/splash/peresntation/views/splash_view.dart';
-import 'package:bookapp/constants.dart';
-import 'package:bookapp/core/utils/app_router.dart';
-import 'package:bookapp/core/utils/service_locator.dart';
+import 'package:bookappp/Features/home/data/repos/home_repo_impl.dart';
+import 'package:bookappp/Features/home/peresntation/manager/featured_books_cubit/featured_books_cubit.dart';
+import 'package:bookappp/Features/home/peresntation/manager/newest_books_cubit/newest_books_cubit.dart';
+import 'package:bookappp/Features/splash/peresntation/views/splash_view.dart';
+import 'package:bookappp/constants.dart';
+import 'package:bookappp/core/utils/app_router.dart';
+import 'package:bookappp/core/utils/service_locator.dart';
 import 'package:cubit_form/cubit_form.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';

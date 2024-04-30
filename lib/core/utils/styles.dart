@@ -1,4 +1,4 @@
-import 'package:bookapp/constants.dart';
+import 'package:bookappp/constants.dart';
 import 'package:flutter/cupertino.dart';
 
 abstract class Styles {

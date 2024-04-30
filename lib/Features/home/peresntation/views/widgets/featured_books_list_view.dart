@@ -1,7 +1,7 @@
-import 'package:bookapp/Features/home/peresntation/manager/featured_books_cubit/featured_books_cubit.dart';
-import 'package:bookapp/Features/home/peresntation/views/widgets/custom_list_view_item.dart';
-import 'package:bookapp/core/widgets%20copy/custom_loading_indicator.dart';
-import 'package:bookapp/core/widgets/custom_error_widget.dart';
+import 'package:bookappp/Features/home/peresntation/manager/featured_books_cubit/featured_books_cubit.dart';
+import 'package:bookappp/Features/home/peresntation/views/widgets/custom_list_view_item.dart';
+import 'package:bookappp/core/widgets/custom_loading_indicator.dart';
+import 'package:bookappp/core/widgets/custom_error_widget.dart';
 import 'package:cubit_form/cubit_form.dart';
 import 'package:flutter/material.dart';
 

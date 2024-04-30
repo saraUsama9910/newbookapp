@@ -1,4 +1,4 @@
-import 'package:bookapp/core/utils/styles.dart';
+import 'package:bookappp/core/utils/styles.dart';
 import 'package:flutter/material.dart';
 
 class CustomButton extends StatelessWidget {

@@ -1,6 +1,6 @@
-import 'package:bookapp/Features/splash/peresntation/views/widgets/sliding_text.dart';
-import 'package:bookapp/core/utils/app_router.dart';
-import 'package:bookapp/core/utils/assets.dart';
+import 'package:bookappp/Features/splash/peresntation/views/widgets/sliding_text.dart';
+import 'package:bookappp/core/utils/app_router.dart';
+import 'package:bookappp/core/utils/assets.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

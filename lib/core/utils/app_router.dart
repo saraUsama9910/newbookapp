@@ -1,7 +1,7 @@
-import 'package:bookapp/Features/home/peresntation/views/home_view.dart';
-import 'package:bookapp/Features/home/peresntation/views/widgets/book_details_view.dart';
-import 'package:bookapp/Features/search/peresntation/views/search_view.dart';
-import 'package:bookapp/Features/splash/peresntation/views/splash_view.dart';
+import 'package:bookappp/Features/home/peresntation/views/home_view.dart';
+import 'package:bookappp/Features/home/peresntation/views/widgets/book_details_view.dart';
+import 'package:bookappp/Features/search/peresntation/views/search_view.dart';
+import 'package:bookappp/Features/splash/peresntation/views/splash_view.dart';
 import 'package:go_router/go_router.dart';
 
 abstract class AppRouter {
